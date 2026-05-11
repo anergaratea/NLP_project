@@ -1,6 +1,6 @@
-# Building NLP Apps with Hugging Face 🤗
+# Building NLP Apps with Hugging Face
 
-An educational tutorial showcasing multiple NLP pipelines using the Hugging Face `transformers` library. It covers **text generation**, **conversational chatbots**, **neural machine translation**, **question answering**, and **fine-tuning a transformer for sentiment classification** — all with pretrained models and publicly available datasets.
+An educational tutorial showcasing multiple NLP pipelines using the Hugging Face `transformers` library. It covers **text generation**, **conversational chatbots**, **neural machine translation**, **question answering**, and fine-tuning a transformer for sentiment classification.
 
 ---
 
@@ -134,4 +134,3 @@ NLP_project/
 ## 📄 Licence
 
 This project is released under the MIT Licence. See [LICENSE](LICENSE) for details.
-
