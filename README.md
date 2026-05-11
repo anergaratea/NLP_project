@@ -4,7 +4,7 @@ An educational tutorial showcasing multiple NLP pipelines using the Hugging Face
 
 ---
 
-## 📚 Notebooks
+## Notebooks
 
 | # | Notebook | Task | Model |
 |---|----------|------|-------|
@@ -16,7 +16,7 @@ An educational tutorial showcasing multiple NLP pipelines using the Hugging Face
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Clone the repository
 
@@ -48,7 +48,7 @@ Open any notebook under `notebooks/` and run the cells from top to bottom.
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 - Python 3.9+
 - See [`requirements.txt`](requirements.txt) for the full list of packages
@@ -69,7 +69,7 @@ Key libraries:
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 NLP_project/
@@ -120,7 +120,7 @@ NLP_project/
 
 ---
 
-## 💡 Extension Ideas
+## Extension Ideas
 
 1. **Domain-adapted chatbot** – fine-tune BlenderBot on a customer-support corpus (e.g., Ubuntu Dialogue Corpus).
 2. **Multilingual models** – add more languages using mBERT or mT5.
@@ -131,6 +131,6 @@ NLP_project/
 
 ---
 
-## 📄 Licence
+## Licence
 
 This project is released under the MIT Licence. See [LICENSE](LICENSE) for details.
